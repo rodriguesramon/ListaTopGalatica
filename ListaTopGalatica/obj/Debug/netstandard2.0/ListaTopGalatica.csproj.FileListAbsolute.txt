@@ -1,0 +1,13 @@
+/Users/aluno/Projects/ListaTopGalatica/ListaTopGalatica/obj/Debug/netstandard2.0/ListaTopGalatica.csprojAssemblyReference.cache
+/Users/aluno/Projects/ListaTopGalatica/ListaTopGalatica/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Projects/ListaTopGalatica/ListaTopGalatica/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Projects/ListaTopGalatica/ListaTopGalatica/obj/Debug/netstandard2.0/ListaTopGalatica.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/ListaTopGalatica/ListaTopGalatica/obj/Debug/netstandard2.0/ListaTopGalatica.AssemblyInfoInputs.cache
+/Users/aluno/Projects/ListaTopGalatica/ListaTopGalatica/obj/Debug/netstandard2.0/ListaTopGalatica.AssemblyInfo.cs
+/Users/aluno/Projects/ListaTopGalatica/ListaTopGalatica/obj/Debug/netstandard2.0/ListaTopGalatica.dll
+/Users/aluno/Projects/ListaTopGalatica/ListaTopGalatica/obj/Debug/netstandard2.0/ListaTopGalatica.pdb
+/Users/aluno/Projects/ListaTopGalatica/ListaTopGalatica/bin/Debug/netstandard2.0/ListaTopGalatica.deps.json
+/Users/aluno/Projects/ListaTopGalatica/ListaTopGalatica/bin/Debug/netstandard2.0/ListaTopGalatica.dll
+/Users/aluno/Projects/ListaTopGalatica/ListaTopGalatica/bin/Debug/netstandard2.0/ListaTopGalatica.pdb
+/Users/aluno/Projects/ListaTopGalatica/ListaTopGalatica/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Projects/ListaTopGalatica/ListaTopGalatica/obj/Debug/netstandard2.0/ListView_Page.xaml.g.cs
